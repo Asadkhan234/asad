@@ -1,0 +1,55 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   background-color: white !important;
+}
+
+.asad{
+    background-color: whitesmoke !important;
+    width: 200px;
+   background: url(image1.png);
+   width: 350px;
+   height: 100px;
+   margin-top: 200px;
+   margin-left: 300px;
+}
+
+ p{
+    padding: 100px 40px;
+    font-weight: bold;
+    font-size: 15px;
+ }
+
+ .saif{
+  
+    width: 350px;
+    height: 360px;
+    margin-left: 900px ;
+   margin: -150px 730px;
+   background-color:whitesmoke;
+   padding: 10px;
+   border-color: black !important;
+   border-radius: 10px;
+   padding-top: 8px 0px;
+   padding: 30px;
+
+ }
+
+.saif:hover{
+   filter:brightness(100%) !important;
+}
+
+ .para{
+   padding: 30px 1px;
+ }
+ 
+
+
+ .sad{
+   margin-top: 60px;
+ }
